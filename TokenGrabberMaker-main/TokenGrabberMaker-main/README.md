@@ -1,13 +1,14 @@
+
 #
-Ce logiciel permet de créer des token grabber discord
+Este software te permite capturar contraseñas y tokens de cuentas de discord
 #
 
-**Python doit être installé pour pouvoir utiliser le logiciel**
+** Python debe estar instalado para poder utilizar el software **
 
-1) Créez un webhook sur un serveur (je conseille que ça soit un serveur privé) et récupérez le lien du webhook créé.
+1) Cree un webhook en un servidor (recomiendo que sea un servidor privado) y obtenga el enlace del webhook creado.
 
-2) Exécutez TokenGrabberMaker.py et suivez les instructions.
+2) Ejecute TokenGrabberMaker.py y siga las instrucciones.
 
-Le .exe généré est détecté par quelques antivirus. (Donc ce n'est pas indétectable)
+El .exe generado es detectado por algunos antivirus. (Entonces no es indetectable)
 
-En cas de problème envoyez-moi un message sur Discord (IDRALOU#6966)
+En caso de problema, envíeme un mensaje en Discord (JamaicanoExcel#1843)
