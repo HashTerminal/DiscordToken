@@ -3,7 +3,7 @@
 Este software te permite capturar contraseñas y tokens de cuentas de discord
 #
 
-** Python debe estar instalado para poder utilizar el software **
+**Python debe estar instalado para poder utilizar el software**
 
 1) Cree un webhook en un servidor (recomiendo que sea un servidor privado) y obtenga el enlace del webhook creado.
 
